@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Shivam\AndroidStudioProjects\RodieNew\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="292a9fa091757208efa65e77eef63088247e51f3">
+        <dex dex="C:\Users\Shivam\AndroidStudioProjects\RodieNew\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.2.0_b745bfd92766df8476d1355776e7de20c3682165\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Shivam\AndroidStudioProjects\RodieNew\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="d4c936aa8c7d2522c82e3f1829c791d9e367f009">
+        <dex dex="C:\Users\Shivam\AndroidStudioProjects\RodieNew\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.2.0_e2e81722cbb98e96f435843a002979f17b7e3fd7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Shivam\AndroidStudioProjects\RodieNew\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\jars\libs\internal_impl-23.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="6e239441500605809818997dd63b62a947195f8c">
+        <dex dex="C:\Users\Shivam\AndroidStudioProjects\RodieNew\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.2.0_b13187051d75b203017da1b1751136c8fef39ccc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Shivam\AndroidStudioProjects\RodieNew\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="e5f32fa48a3eb2de0c987025c11b6e3864b634d9">
+        <dex dex="C:\Users\Shivam\AndroidStudioProjects\RodieNew\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.2.0_16d247506dfcbc433e20b640e1c6cd6f8a3a6658\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Shivam\AndroidStudioProjects\RodieNew\app\build\intermediates\exploded-aar\com.android.support\design\23.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="1aa5b025efe97f5006f5be16d6ca67c6c3c0c0d8">
+        <dex dex="C:\Users\Shivam\AndroidStudioProjects\RodieNew\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.2.0_08c1c07637da73be34f5d76ea6c3129244dea713\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Shivam\AndroidStudioProjects\RodieNew\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="6e3578f92f7462d1a935a1d36173e3bdd1234976">
+        <dex dex="C:\Users\Shivam\AndroidStudioProjects\RodieNew\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.2.0_c01150914aaf3fe08a9c7ab25e97f55c0b84860f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Shivam\AndroidStudioProjects\RodieNew\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="8c108c22c99e794eff255bb34d2a461200c4cbb0">
+        <dex dex="C:\Users\Shivam\AndroidStudioProjects\RodieNew\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.2.0_25606bd2c90478c405a7111c7c7d234c120dc833\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Shivam\AndroidStudioProjects\RodieNew\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="bc599eb9531da9d18bc58ec4eb0b1a1d895f6839">
+        <dex dex="C:\Users\Shivam\AndroidStudioProjects\RodieNew\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-23.2.0_8dd21010d392963979c6aeeeb6d6862bea4461d6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Shivam\AndroidStudioProjects\RodieNew\app\build\intermediates\exploded-aar\com.android.support\multidex\1.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="C:\Users\Shivam\AndroidStudioProjects\RodieNew\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-multidex-1.0.1_e4cb01914c5c8059e2584d8ec18bcdda0fc57df0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Shivam\AndroidStudioProjects\RodieNew\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="7f53900588e711880babbca7e50504b31048cd52">
+        <dex dex="C:\Users\Shivam\AndroidStudioProjects\RodieNew\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_4f194e0ece4eed540b10468990f9aa48312d091e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\android\android-sdk-windows\extras\android\m2repository\com\android\support\support-annotations\23.2.0\support-annotations-23.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="c5bf571bb10462bd90e5419ade67793f71acbc87">
+        <dex dex="C:\Users\Shivam\AndroidStudioProjects\RodieNew\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.2.0_c22271f70f362cfe59a01b9ad93404459375007a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Shivam\AndroidStudioProjects\RodieNew\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="b08c14ffedb9d253795d4ac8a1aa5cfae243ccab">
+        <dex dex="C:\Users\Shivam\AndroidStudioProjects\RodieNew\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_82a7630c4bc9a284d48fdb08e3686ac2b11acf21\classes.dex" />
+    </item>
+
+</items>
