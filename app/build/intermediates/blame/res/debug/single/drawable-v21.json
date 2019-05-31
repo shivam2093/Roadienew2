@@ -1,0 +1,70 @@
+[
+    {
+        "merged": "C:\\Users\\Shivam\\AndroidStudioProjects\\RodieNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_camera.xml",
+        "source": "C:\\Users\\Shivam\\AndroidStudioProjects\\RodieNew\\app\\src\\main\\res\\drawable-v21\\ic_menu_camera.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\AndroidStudioProjects\\RodieNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\landt.png",
+        "source": "C:\\Users\\Shivam\\AndroidStudioProjects\\RodieNew\\app\\src\\main\\res\\drawable-v21\\landt.png"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\AndroidStudioProjects\\RodieNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_gallery.xml",
+        "source": "C:\\Users\\Shivam\\AndroidStudioProjects\\RodieNew\\app\\src\\main\\res\\drawable-v21\\ic_menu_gallery.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\AndroidStudioProjects\\RodieNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\shad.xml",
+        "source": "C:\\Users\\Shivam\\AndroidStudioProjects\\RodieNew\\app\\src\\main\\res\\drawable-v21\\shad.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\AndroidStudioProjects\\RodieNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_manage.xml",
+        "source": "C:\\Users\\Shivam\\AndroidStudioProjects\\RodieNew\\app\\src\\main\\res\\drawable-v21\\ic_menu_manage.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\AndroidStudioProjects\\RodieNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\cc.png",
+        "source": "C:\\Users\\Shivam\\AndroidStudioProjects\\RodieNew\\app\\src\\main\\res\\drawable-v21\\cc.png"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\AndroidStudioProjects\\RodieNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\side_nav_bar.xml",
+        "source": "C:\\Users\\Shivam\\AndroidStudioProjects\\RodieNew\\app\\src\\main\\res\\drawable-v21\\side_nav_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\AndroidStudioProjects\\RodieNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_slideshow.xml",
+        "source": "C:\\Users\\Shivam\\AndroidStudioProjects\\RodieNew\\app\\src\\main\\res\\drawable-v21\\ic_menu_slideshow.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\AndroidStudioProjects\\RodieNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\sideshad.xml",
+        "source": "C:\\Users\\Shivam\\AndroidStudioProjects\\RodieNew\\app\\src\\main\\res\\drawable-v21\\sideshad.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\AndroidStudioProjects\\RodieNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\edshap.xml",
+        "source": "C:\\Users\\Shivam\\AndroidStudioProjects\\RodieNew\\app\\src\\main\\res\\drawable-v21\\edshap.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\AndroidStudioProjects\\RodieNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\bbb.jpg",
+        "source": "C:\\Users\\Shivam\\AndroidStudioProjects\\RodieNew\\app\\src\\main\\res\\drawable-v21\\bbb.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\AndroidStudioProjects\\RodieNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\shadow.xml",
+        "source": "C:\\Users\\Shivam\\AndroidStudioProjects\\RodieNew\\app\\src\\main\\res\\drawable-v21\\shadow.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\AndroidStudioProjects\\RodieNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\Shivam\\AndroidStudioProjects\\RodieNew\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable-v21\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\AndroidStudioProjects\\RodieNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_share.xml",
+        "source": "C:\\Users\\Shivam\\AndroidStudioProjects\\RodieNew\\app\\src\\main\\res\\drawable-v21\\ic_menu_share.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\AndroidStudioProjects\\RodieNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\Shivam\\AndroidStudioProjects\\RodieNew\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\AndroidStudioProjects\\RodieNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_send.xml",
+        "source": "C:\\Users\\Shivam\\AndroidStudioProjects\\RodieNew\\app\\src\\main\\res\\drawable-v21\\ic_menu_send.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\AndroidStudioProjects\\RodieNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\Users\\Shivam\\AndroidStudioProjects\\RodieNew\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    }
+]

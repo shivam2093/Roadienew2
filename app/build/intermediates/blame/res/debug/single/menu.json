@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\Shivam\\AndroidStudioProjects\\RodieNew\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_mainserviceprovider_drawer.xml",
+        "source": "C:\\Users\\Shivam\\AndroidStudioProjects\\RodieNew\\app\\src\\main\\res\\menu\\activity_mainserviceprovider_drawer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\AndroidStudioProjects\\RodieNew\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_main_user_drawer.xml",
+        "source": "C:\\Users\\Shivam\\AndroidStudioProjects\\RodieNew\\app\\src\\main\\res\\menu\\activity_main_user_drawer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\AndroidStudioProjects\\RodieNew\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main_admin.xml",
+        "source": "C:\\Users\\Shivam\\AndroidStudioProjects\\RodieNew\\app\\src\\main\\res\\menu\\main_admin.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\AndroidStudioProjects\\RodieNew\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_main_admin_drawer.xml",
+        "source": "C:\\Users\\Shivam\\AndroidStudioProjects\\RodieNew\\app\\src\\main\\res\\menu\\activity_main_admin_drawer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\AndroidStudioProjects\\RodieNew\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main_user.xml",
+        "source": "C:\\Users\\Shivam\\AndroidStudioProjects\\RodieNew\\app\\src\\main\\res\\menu\\main_user.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\AndroidStudioProjects\\RodieNew\\app\\build\\intermediates\\res\\merged\\debug\\menu\\mainserviceprovider.xml",
+        "source": "C:\\Users\\Shivam\\AndroidStudioProjects\\RodieNew\\app\\src\\main\\res\\menu\\mainserviceprovider.xml"
+    }
+]

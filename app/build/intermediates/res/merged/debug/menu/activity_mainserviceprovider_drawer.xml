@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="Home" />
+        <item
+            android:id="@+id/profile"
+            android:icon="@drawable/ic_menu_manage"
+            android:title=" Profile" />
+        <item
+            android:id="@+id/nav_bservice"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="Bid Service" />
+        <item
+            android:id="@+id/nav_request"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="View Request" />
+        <item
+            android:id="@+id/nav_Service_Request"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="Service Request" />
+        <item
+            android:id="@+id/feedback"
+            android:icon="@drawable/ic_menu_send"
+            android:title="Feedback" />
+
+    </group>
+
+</menu>
